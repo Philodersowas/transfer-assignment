@@ -3,3 +3,4 @@
 2. `git` provides a very useful tool for collaborative projects, by pulling and merging changes of multiple people
 
 # Weaknesses
+1. `git` is not optimal for large files and other formats like `pdf`, etc.
