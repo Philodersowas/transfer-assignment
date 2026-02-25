@@ -4,3 +4,8 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+
+  aspell:
+    lang: en
+    mode: markdown
+    personal: .spellcheck-ignore-words
