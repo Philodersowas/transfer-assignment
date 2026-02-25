@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. `git` is not optimal for large files and other formats like `pdf`, etc.
+2. Storing the entire history of a file does take up more space, though it is done efficiently
